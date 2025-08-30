@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 
-![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=①chaechaeyeon&show_icons=true&theme=②merko)
+![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
