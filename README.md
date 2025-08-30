@@ -1,6 +1,15 @@
 ## Hi there 👋
 
 
+<div align=center>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <br>
+</div>
+
+![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
+
+
 <!--
 **chaechaeyeon/chaechaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--- 자바 뱃지
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 
--- 스프링 뱃지
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-
-
-
-
-![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
