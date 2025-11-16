@@ -43,7 +43,7 @@
 	
 </div>
 
-💼Activities
+<h3>💼Activities </h3>
 <ul>
   <li>글로벌 크로스 멘토링 수료 2025</li>
   <li>멋쟁이사자처럼(LIKELION) 12TH BE 운영진 2024 </li>
