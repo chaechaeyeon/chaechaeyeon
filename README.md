@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align=center>
+ <h1>ChaeYeon Lee</h1>
+major in ComputerScience
+</div>
 
 
 <div align=center>
@@ -13,8 +17,11 @@
 	<br>
 </div>
 
-![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
 
+
+
+<!--![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
+-->
 
 <!--
 **chaechaeyeon/chaechaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
