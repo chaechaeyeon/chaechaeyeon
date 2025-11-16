@@ -2,7 +2,7 @@
 
 <div align="left">
   <h3>ChaeYeon Lee</h3>
-  <p>Computer Science Major</p>
+  <p>Major in Computer Science </p>
   <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p>
 </div>
 
@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 	<br>
 </div>
-
+💼 Experience
 
 
 
