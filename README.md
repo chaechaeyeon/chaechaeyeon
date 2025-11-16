@@ -19,9 +19,13 @@
 	<br>
 </div>
 
-<ul>💼 Experience
-  <li>내용 1</li>
-  <li>내용 2</li>
+💼Activities
+<ul>
+  <li>글로벌 크로스 멘토링 수료 2025</li>
+  <li>멋쟁이사자처럼(LIKELION) 12TH BE 운영진 2024 </li>
+  <li>멋쟁이사자처럼(LIKELION) 11TH BE 2023 </li>
+  <li>PING 보안동아리 2022</li>
+  <li>NPC 게임 개발동이리 2021-2023</li>
 </ul>
 
 
