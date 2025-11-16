@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-<div align=center>
- <h1>ChaeYeon Lee</h1>
-major in ComputerScience
+<div align="center">
+  <h3>ChaeYeon Lee</h3>
+  <p>Computer Science Major</p>
+  <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p>
 </div>
 
+<br>
 
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
