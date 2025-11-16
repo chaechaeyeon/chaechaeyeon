@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
+<div align="left">
   <h3>ChaeYeon Lee</h3>
   <p>Computer Science Major</p>
   <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p>
