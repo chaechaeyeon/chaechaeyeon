@@ -18,8 +18,11 @@
 	<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 	<br>
 </div>
-💼 Experience
 
+<ul>💼 Experience
+  <li>내용 1</li>
+  <li>내용 2</li>
+</ul>
 
 
 <!--![Chaechaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaeyeon&show_icons=true&theme=merko)
