@@ -51,7 +51,7 @@
   <li>멋쟁이사자처럼(LIKELION) 12TH BE 운영진 2024 </li>
   <li>멋쟁이사자처럼(LIKELION) 11TH BE 2023 </li>
   <li>PING 보안동아리 2022</li>
-  <li>NPC 게임 개발동이리 2021-2023</li>
+  <li>NPC 게임 개발동아리 2021-2023</li>
 </ul>
 
 
