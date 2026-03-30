@@ -3,7 +3,7 @@
 <div align="left">
   <h3>ChaeYeon Lee</h3>
   <p>Major in Computer Science </p>
-  <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p>
+  <!-- <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p> -->
 </div>
 
 <br>
