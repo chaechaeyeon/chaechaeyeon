@@ -3,6 +3,8 @@
 <div align="left">
   <h3>ChaeYeon Lee</h3>
   <p>Major in Computer Science </p>
+  <p>My sub github account @coduslee </p>
+	https://github.com/coduslee
   <!-- <p>Interested in: Backend Development · Data Analysis · Cloud/Infrastructure</p> -->
 </div>
 
