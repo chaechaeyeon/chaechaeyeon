@@ -9,7 +9,7 @@
 </div>
 
 <br>
-<h3>💻Skills</h3>
+<h3>Skills</h3>
 <div align=left>
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -35,7 +35,7 @@
 	<img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 	<img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white" />
 </div>
-<h3>💻Tools </h3>
+<h3>Tools </h3>
 <div align= left>
 	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -46,9 +46,9 @@
 	
 </div>
 
-<h3>💼Activities </h3>
+<h3>Activities </h3>
 <ul>
-  <li>SKALA CLOUD 1기 수료 </li>
+  <li>SKALA CLOUD 1기 2026 </li>
   <li>글로벌 크로스 멘토링 수료 2025</li>
   <li>교내 창업동아리 2024</li>
   <li>멋쟁이사자처럼(LIKELION) 12TH BE 운영진 2024 </li>
